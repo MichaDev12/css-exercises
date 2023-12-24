@@ -43,5 +43,5 @@ img {
 }
 
 .info {
-  flex: 0 2 200px;
+  flex-basis: 200px;
 }
