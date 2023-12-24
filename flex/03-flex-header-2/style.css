@@ -51,12 +51,8 @@ ul {
 .links,
 .profile-section {
   display: flex;
-  gap: 16px;
-}
-
-.header,
-.profile-section{
   align-items: center;
+  gap: 16px;
 }
 
 .links {
