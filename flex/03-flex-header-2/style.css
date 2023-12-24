@@ -48,8 +48,9 @@ ul {
 }
 
 .header,
-.links {
-  gap: 8px;
+.links,
+.profile-section {
+  gap: 16px;
 }
 
 .header,
@@ -73,14 +74,4 @@ ul {
 
 .header {
   padding: 8px;
-}
-
-.logo,
-.link-section {
-  margin-left: 16px;
-}
-
-button,
-.profile-image {
-  margin-right: 16px;
 }
